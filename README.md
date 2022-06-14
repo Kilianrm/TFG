@@ -1,3 +1,3 @@
-# Td
+# Portal de busqueda de empleo
 
-Plataforma de búsqueda de empleo.
+Desarrollo completo de un portal de busqueda de empleo. Utilizando tecnologías como Node.js, MySQL y React.js
